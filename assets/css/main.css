@@ -2276,3 +2276,15 @@ button,
 input[type=submit].primary{
     background-color: #df2b2b !important;
 }
+button{
+    background-color: rgb(35, 11, 238) !important;
+}
+footer{
+    background-color: rgb(28, 194, 94) !important;
+}
+a{
+    color: rgb(224, 244, 0) !important;
+}
+.color{
+    background-color: rgb(15, 154, 163) !important;
+}
